@@ -21,7 +21,7 @@ const page = () => {
 
   return (
     <>
-    {/* <TwoWayBindingInReact /> */}
+    <TwoWayBindingInReact />
     {/* <h1 className='text-2xl font-bold'>This is Home Page</h1>
     <Link href='/Contact' className='border-2 border-slate-800'>Contact</Link> */}
     {/* <button onClick={getUser} className='border-2 border-green-500 rounded-lg font-bold p-2'>Get Data</button>
